@@ -1,0 +1,7 @@
+<!ELEMENT perfil (nombre?)>
+<!ELEMENT detalle (formacion,habilidades,proyectos,contacto)>
+<!ELEMENT formacion (#PCDATA)>
+<!ELEMENT habilidades (#PCDATA)>
+<!ELEMENT proyectos (#PCDATA)>
+<!ELEMENT contacto (#PCDATA)>
+<!ATTLIST perfil nombre ID #REQUIRED>

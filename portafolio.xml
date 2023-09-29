@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portafolios>
+    <portafolio>
+        <nombre>Yasmani</nombre>
+        <informacion>
+            <formacion></formacion>
+            <habilidades>
+                <habilidad-dura></habilidad-dura>
+                <habilidad-blanda></habilidad-blanda>
+            </habilidades>
+            <proyecto>
+
+            </proyecto>
+            <contacto></contacto>
+        </informacion>
+    </portafolio>
+</portafolios>
